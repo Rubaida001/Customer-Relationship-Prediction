@@ -1,0 +1,2 @@
+# Customer-Relationship-Prediction
+In this project, different machine learning techniques have been applied on Orange Telecom dataset  that can bring out information about customer demands. This dataset consists of three separate binary classification problems where we have to predict the propensity of customers to switch provider (churn), buy new products or services (appetency), or buy upgrades or add-ons proposed to them to make the sale more profitable (upselling).
